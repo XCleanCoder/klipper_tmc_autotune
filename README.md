@@ -58,6 +58,7 @@ motor: ldo-42sth48-2004ac
 motor: ldo-36sth20-1004ahg
 ```
 
+
 All the `[autotune_tmc]` sections accept additional parameters to tweak the behavior of the autotune process for each motor:
 
 | Parameter | Default value | Range | Description |
